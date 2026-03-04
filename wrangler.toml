@@ -8,4 +8,4 @@ command = "worker-build --release"
 [[d1_databases]]
 binding = "vault1"
 database_name = "vault1"
-database_id = "${D1_DATABASE_ID}"
+database_id = "942279a5-121d-4c28-b90f-77cc03797b86"
